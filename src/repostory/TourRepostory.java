@@ -12,7 +12,7 @@ public class TourRepostory {
     public TourEntity findbyid(Long id){
         for (TourEntity tour : tours){
             //  hello world
-            if ()
+            // sdnvndsjvvjkcnddjn
         }
     }
 }
